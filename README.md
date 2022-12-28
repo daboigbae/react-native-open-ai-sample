@@ -1,9 +1,7 @@
-Open AI Sample React Native App 💿 💿 💿
-This is the repo of the mobile app for Wasabi Music.
+# Open AI Sample React Native App 💿 💿 💿
+This is the repo for a sample react native app that uses OpenAI to generate tweets. 
 
-The application was written in React Native. Currently uses a hard coded playlist of our favorite NFT songs as we implement the support to utilize the full catalog of NFT music found at https://wasabimusic.io/
-
-📱📱📱📱📱 Try the app now on TestFlight for iOS https://testflight.apple.com/join/4nCSJUqq Android coming soon
+📱📱📱📱📱 This project was bootstrapped using https://github.com/daboigbae/react-native-template
 
 Folder Structure 📁 📁 📁 📁
 App.js - main application
