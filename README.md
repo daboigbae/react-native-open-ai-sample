@@ -4,10 +4,9 @@ This is the repo for a sample react native app that uses OpenAI to generate twee
 📱📱📱📱📱 This project was bootstrapped using https://github.com/daboigbae/react-native-template
 
 ## Folder Structure 📁 📁 📁 📁
-App.js - main application
 
-### e2e
-detox test cases
+### Main Application
+- App.js
 
 ### src
 - assets - for all images and test input data
