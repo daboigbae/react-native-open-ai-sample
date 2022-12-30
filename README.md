@@ -23,27 +23,25 @@ This is the repo for a sample react native app that uses OpenAI to generate twee
 ### iOS
 Take the following steps to run the application locally for iOS
 
-- run yarn install
-- navigate to the iOS folder using a terminal cd ios
-- run pod install
-- run yarn start within the directory in a terminal
-- open the temp.xworspace using xcode
-- run the project using xcode once everything loads
+- run `yarn install`
+- navigate to the iOS folder using a terminal `cd ios`
+- run `pod install`
+- run `yarn ios` from the root
 
 ### Android
 Take the following steps to run the application locally for iOS
 
-- run yarn install
-- run yarn android
+- run `yarn install`
+- run `yarn android`
 
 If you run into any issues, please make sure your development environment is set-up with a fresh react native app.
 
 If your android app runs, but it can't connect to the react native server
 
 - Open a new terminal and navigate to the project
-- Run adb reverse tcp:8081 tcp:8081
-- Run yarn start
-- Run yarn android
+- Run `adb reverse tcp:8081 tcp:8081`
+- Run `yarn start`
+- Run `yarn android`
 
 
 ## Running Test Cases 🧪 🧪 🧪 🧪 🧪 🧪
