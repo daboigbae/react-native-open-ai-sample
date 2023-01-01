@@ -49,7 +49,7 @@ If your android app runs, but it can't connect to the react native server
 ### iOS
 Take the following steps to run the test cases for the application
 
-- yarn install
+- `yarn install`
 - navigate to the iOS folder using a terminal cd ios
 - run pos install
 - run detox build -c ios.sim.debug to build the debug version of the app for testing
